@@ -1,4 +1,4 @@
-# 🛒 Tienda Online Java (Parte Backend)
+# 🛒 Tienda Online Java (Servidor)
 
 Este proyecto es una **tienda online** desarrollada en **Java**, utilizando **Spring Boot** para el backend y **Retrofit** como cliente HTTP para consumir los endpoints.
 
